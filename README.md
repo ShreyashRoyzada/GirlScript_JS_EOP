@@ -1,1 +1,1 @@
-# GirlScript_JS_EOP
+# Girlscript_JS
